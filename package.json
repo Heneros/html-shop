@@ -1,38 +1,12 @@
 {
   "name": "start-n",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "",
-=======
->>>>>>> update
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-<<<<<<< HEAD
-  "license": "ISC"
-=======
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "browser-sync": "^2.26.14",
-    "font-awesome": "^4.7.0",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-concat": "^2.6.1",
-    "gulp-cssmin": "^0.2.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-replace": "^1.0.0",
-    "gulp-sass": "^4.1.0",
-    "gulp-svgmin": "^3.0.0",
-    "gulp-uglify": "^3.0.2",
-    "imagemin-jpeg-recompress": "^7.0.0",
-    "imagemin-jpegtran": "^7.0.0",
-    "imagemin-pngquant": "^9.0.2",
-    "jquery": "^3.6.0",
-    "node-sass": "^5.0.0"
-  }
->>>>>>> update
+  "description": ""
 }
